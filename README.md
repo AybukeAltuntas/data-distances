@@ -1,3 +1,17 @@
+## Refactoring
+
+Bu challenge’da kod refactoring pratiği yapacağız ve test yazmayı öğreneceğiz.
+
+Sık sık .py dosyaları, notebook ve terminal arasında geçiş yapacağız.
+
+Bu yüzden gelin VS Code’u profesyonelce kullanalım.
+
+VS Code’da her şeyi açın:
+
+```bash
+code .
+```
+
 Bu challenge için her şeyi VS Code içinde yapın.
 
 Birkaç ipucu:
