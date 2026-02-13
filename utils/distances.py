@@ -12,5 +12,5 @@ def minkowski(a, b, p):
     d_x = b[0] - a[0]
     d_y = b[1] - a[1]
 
-    distance = (d_x**p + d_y**p)**(1/p)
+    distance = (abs(d_x)**p + abs(d_y)**p)**(1/p)
     return distance
